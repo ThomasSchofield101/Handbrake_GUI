@@ -1,0 +1,3 @@
+D:\Code\Handbrake Compression GUI\Handbrak.c428d655\x64\Debug\Handbrake Compression GUI.vcxproj.AssemblyReference.cache
+D:\Code\Handbrake Compression GUI\Handbrak.c428d655\x64\Debug\Handbrake Compression GUI.vcxproj.GenerateResource.cache
+D:\Code\Handbrake Compression GUI\Handbrak.c428d655\x64\Debug\Handbrake_Compression_GUI.Form1.resources
