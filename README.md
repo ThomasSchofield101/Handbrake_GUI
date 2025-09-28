@@ -1,4 +1,4 @@
-# HandbrakeCLI_GUIWrapper
+# HandbrakeGUI
 A simple GUI wrapper for Handbrake CLI I am making in an attempt to add extra features that the handbrake app does not have, such as further recursion depth in batch mode.
 
 
